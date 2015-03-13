@@ -21,3 +21,6 @@ hello llo
 echo $y
 
 sed -i "/as/r out" input.dat
+
+
+test
